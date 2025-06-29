@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunil J</h1>
+<h1 align="center">Hi 👋, I'm Sunil</h1>
 <h3 align="center">Senior Software Engineer | DSA | DevOps | Cloud</h3>
 
 <p align="center">
@@ -17,11 +17,6 @@ I'm a **Full Stack Engineer** skilled in building scalable and efficient cloud-n
 - 🧠 Experienced in **React, Angular, Node.js, TypeScript, Python, SQL**
 - 🚀 Hands-on with **CI/CD, Docker, Kubernetes, Redis, ElasticSearch**
 - ☁️ Cloud platforms: **GCP**, **AWS**, **Firebase**
-- 🎯 Built & led multiple projects with measurable results:
-  - 🔹 Reduced deployment time by **80%** using GitHub Actions & Cloud Build
-  - 🔹 Cut infra costs by **30%** through Kubernetes migration
-  - 🔹 Improved performance & delivery by up to **60%**
-- 🏆 Awards: **Neo Champion**, **Shining Star**, **Rookie Neo**
 
 📍 Tamil Nadu, India  
 📬 Reach me at **sunilswizy18@gmail.com**
