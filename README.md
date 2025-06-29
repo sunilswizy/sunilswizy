@@ -2,40 +2,48 @@
 <h3 align="center">Senior Software Engineer | DSA | DevOps | Cloud</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunilswizy&label=Profile%20views&color=0e75b6&style=flat" alt="sunilswizy" />
+  <a href="https://www.linkedin.com/in/sunil1211/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="mailto:sunilswizy18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" /></a>
+  <a href="https://leetcode.com/u/sunilswizy18"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer with expertise in:
+I'm a **Full Stack Engineer** skilled in building scalable and efficient cloud-native applications using modern JavaScript stacks and DevOps tools.
 
-- JavaScript, TypeScript, Python, SQL, Node.js
-- Frameworks: React.js, Angular, Express.js
-- ORM Tools: Prisma, Sequelize
-- DevOps & Cloud: Google Cloud, AWS, Docker, Kubernetes, GitHub Actions
-- Tools & Techniques: Redis, ElasticSearch, CI/CD, Unit Testing
+- 💻 Solved **900+ LeetCode problems** – strong in **Data Structures & Algorithms**
+- 🧠 Experienced in **React, Angular, Node.js, TypeScript, Python, SQL**
+- 🚀 Hands-on with **CI/CD, Docker, Kubernetes, Redis, ElasticSearch**
+- ☁️ Cloud platforms: **GCP**, **AWS**, **Firebase**
+- 🎯 Built & led multiple projects with measurable results:
+  - 🔹 Reduced deployment time by **80%** using GitHub Actions & Cloud Build
+  - 🔹 Cut infra costs by **30%** through Kubernetes migration
+  - 🔹 Improved performance & delivery by up to **60%**
+- 🏆 Awards: **Neo Champion**, **Shining Star**, **Rookie Neo**
 
-🚀 I’ve:
-
-- Engineered scalable RESTful APIs and reduced technical debt by 40%
-- Improved endpoint reliability to 99% and response times by 30%
-- Designed a CI/CD pipeline reducing deployment time by 80%
-- Migrated deployments to Kubernetes, cutting infra costs by 30%
-- Developed internal tools that accelerated project delivery by 60%
-
-🏆 Recognized with awards:
-**Neo Champion**, **Shining Star**, and **Rookie Neo** for high-impact contributions and rapid learning
-
-📍 Based in Coimbatore, Tamil Nadu, India  
-💬 Pronouns: He/Him  
-📫 Reach me at: sunilswizy@gmail.com  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/sunil-j-5b8a63217/)
+📍 Tamil Nadu, India  
+📬 Reach me at **sunilswizy18@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Featured Projects
+
+Here are some full-stack projects I've built or contributed to:
+
+- 🎧 [**Audio House**](https://github.com/sunilswizy/Audio-House):  
+  A real-time audio-based social platform with user auth, rooms, and moderation.
+
+- 🍔 [**Spicyland (Restaurant Management)**](https://github.com/sunilswizy/spicyland):  
+  React + Node + Stripe-based full-stack restaurant ordering & payment app.
+
+- 📅 [**Calendly Clone**](https://github.com/sunilswizy/calendly):  
+  A scheduling app built in Angular + TypeScript with interactive calendar & reminders.
+
+---
+
+### 🧰 Tech Stack
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
@@ -49,15 +57,9 @@ I'm a passionate Full Stack Developer with expertise in:
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 
----
 
-### 📈 GitHub Stats
+_Thanks for visiting my profile! Let's connect 🤝_
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilswizy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sunilswizy&theme=tokyonight" alt="GitHub Streak" />
-</p>
